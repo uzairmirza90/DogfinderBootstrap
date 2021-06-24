@@ -5,22 +5,20 @@ h1 {
     font-family:sans-serif;
     
 }
+
+
 #iphone{
     
-    width: 55%;
-    
-    margin-top: 30px;
-    margin-left: 70px;
-    transform:scaleY(25deg);
-    position: relative;
-    
-    
+    width: 55%;   
+    height: 500px;
+    float: right;
+    margin-right: 50px;
 }
 #title{
-    height: 630px;
+    height: 700px;
     background: rgb(255,76,104);
     background: linear-gradient(90deg, rgba(255,76,104,1) 0%, rgba(255,137,95,1) 100%, rgba(121,9,9,1) 100%);
-  
+    
 }
 .container-fluid{
     padding: 3% 11%;
@@ -36,7 +34,7 @@ h3 {
     text-align: center;
     background-color: white;
     position: relative;
-    z-index: 1;
+    
     
 }
 .testimonial-text{
