@@ -40,7 +40,7 @@ h3 {
 .testimonial-text{
     margin-bottom: 70px;
     color: white;
-    
+    font-family: sans-serif;
 }
 .testimonial-image{
     
@@ -105,7 +105,11 @@ h3 {
 .card{
     margin-bottom: 20px;
     padding: 1%;
+    border-color: #343a40;
+    border-radius: 25px;
+    border-width: 3px;
 }
+
 #cta{
     text-align: center;
     margin-top: 90px;
